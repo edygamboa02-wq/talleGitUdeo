@@ -10,6 +10,7 @@ namespace piedra_papel_o_tijera_prueba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Gustavo777 OwO");
         }
     }
 }
