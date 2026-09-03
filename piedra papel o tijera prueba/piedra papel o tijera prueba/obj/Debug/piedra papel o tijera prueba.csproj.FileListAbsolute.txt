@@ -1,0 +1,7 @@
+C:\Users\CompuFire\Desktop\prueba udeo git\talleGitUdeo\piedra papel o tijera prueba\piedra papel o tijera prueba\bin\Debug\piedra papel o tijera prueba.exe.config
+C:\Users\CompuFire\Desktop\prueba udeo git\talleGitUdeo\piedra papel o tijera prueba\piedra papel o tijera prueba\bin\Debug\piedra papel o tijera prueba.exe
+C:\Users\CompuFire\Desktop\prueba udeo git\talleGitUdeo\piedra papel o tijera prueba\piedra papel o tijera prueba\bin\Debug\piedra papel o tijera prueba.pdb
+C:\Users\CompuFire\Desktop\prueba udeo git\talleGitUdeo\piedra papel o tijera prueba\piedra papel o tijera prueba\obj\Debug\piedra papel o tijera prueba.csproj.AssemblyReference.cache
+C:\Users\CompuFire\Desktop\prueba udeo git\talleGitUdeo\piedra papel o tijera prueba\piedra papel o tijera prueba\obj\Debug\piedra papel o tijera prueba.csproj.CoreCompileInputs.cache
+C:\Users\CompuFire\Desktop\prueba udeo git\talleGitUdeo\piedra papel o tijera prueba\piedra papel o tijera prueba\obj\Debug\piedra papel o tijera prueba.exe
+C:\Users\CompuFire\Desktop\prueba udeo git\talleGitUdeo\piedra papel o tijera prueba\piedra papel o tijera prueba\obj\Debug\piedra papel o tijera prueba.pdb
